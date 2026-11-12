@@ -1,7 +1,0 @@
-entrada,codigo_saida,mensagem,resultado
-'',2,"Entrada inválida: ''. Informe 4 dígitos 0/1 na ordem A B C D, ex.: 1101.",OK
-'12',2,"Entrada inválida: '12'. Informe 4 dígitos 0/1 na ordem A B C D, ex.: 1101.",OK
-'10a1',2,"Entrada inválida: '10a1'. Informe 4 dígitos 0/1 na ordem A B C D, ex.: 1101.",OK
-'11111',2,"Entrada inválida: '11111'. Informe 4 dígitos 0/1 na ordem A B C D, ex.: 1101.",OK
-'abc',2,"Entrada inválida: 'abc'. Informe 4 dígitos 0/1 na ordem A B C D, ex.: 1101.",OK
-'1 0 1',2,"Entrada inválida: '1 0 1'. Informe 4 dígitos 0/1 na ordem A B C D, ex.: 1101.",OK
