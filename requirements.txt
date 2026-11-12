@@ -1,2 +1,0 @@
-schemdraw>=0.18
-matplotlib>=3.7
